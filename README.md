@@ -21,4 +21,4 @@ Compile:
 g++ -std=c++17 -O2 -Wall -Wextra -o net_inspector main.cpp
 ./net_inspector <ip address>
 
-<img width="509" height="155" alt="image" src="https://github.com/user-attachments/assets/f2e02905-43e3-4655-8093-7f7f7efe6ab2" />
+
